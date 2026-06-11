@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>Vyshnav Vinod - Cybersecurity Portfolio Terminal</title>
+        <title>Vyshnav Vinod</title>
         <meta name="description" content="Interactive Linux terminal portfolio for Cybersecurity and VAPT analyst Vyshnav Vinod." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
         <meta name="theme-color" content="#000000" />
